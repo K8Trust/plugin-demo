@@ -1,3 +1,3 @@
-module github.com/traefik/plugin-demo
+module github.com/K8Trust/plugin-demo
 
 go 1.19
